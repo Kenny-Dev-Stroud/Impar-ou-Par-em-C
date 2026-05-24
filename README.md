@@ -27,8 +27,6 @@ Imagine o seguinte cenário de partida:
 
 ## 🛠️ Tecnologias Utilizadas
 
-## 🛠️ Tecnologias Utilizadas
-
 <img src="https://github.com/Kenny-Dev-Stroud/Impar-ou-Par-em-C/blob/main/48.png?raw=true" alt="C Logo" width="25" height="25" align="center"> **Linguagem C**
 
 ---
