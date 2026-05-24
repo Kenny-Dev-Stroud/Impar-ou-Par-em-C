@@ -27,7 +27,7 @@ Imagine o seguinte cenário de partida:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* ![C](https://github.com/Kenny-Dev-Stroud/Impar-ou-Par-em-C/blob/main/240.png?raw=true)
+* ![C](https://github.com/Kenny-Dev-Stroud/Impar-ou-Par-em-C/blob/main/48.png?raw=true)
 
 ---
 
