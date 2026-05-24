@@ -27,7 +27,7 @@ Imagine o seguinte cenário de partida:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* ![C](<a target="_blank" href="https://icons8.com/icon/40670/c-programming">Programação C</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>)
+* ![C](https://icons8.com/icon/40670/c-programming)
 
 ---
 
