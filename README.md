@@ -27,8 +27,7 @@ Imagine o seguinte cenário de partida:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* [Coloque aqui a linguagem, ex: HTML / CSS / JavaScript]
-* [Coloque aqui outra tecnologia se houver, ex: Python, Java, C#]
+* ![C](https://shields.io) **Linguagem C**
 
 ---
 
