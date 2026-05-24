@@ -27,7 +27,7 @@ Imagine o seguinte cenário de partida:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* ![C](https://shields.io) **Linguagem C**
+* ![C](https://shields.io)
 
 ---
 
