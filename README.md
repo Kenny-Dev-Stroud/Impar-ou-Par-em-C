@@ -40,11 +40,13 @@ Se quiser testar o jogo localmente, siga os passos abaixo:
    ```bash
    git clone https://github.com
    ```
+
 2. Acesse a pasta do projeto:
    ```bash
    cd NOME-DO-REPOSITORIO
    ```
-3. Execute o arquivo principal:
+
+3. Compile e execute o arquivo principal:
    ```bash
-   [Coloque aqui o comando para rodar, ex: node index.js ou python main.py]
+   gcc main.c -o jogo && ./jogo
    ```
