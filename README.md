@@ -43,7 +43,7 @@ Se quiser testar o jogo localmente, siga os passos abaixo:
 
 2. Acesse a pasta do projeto:
    ```bash
-   cd NOME-DO-REPOSITORIO
+   cd Impar-ou-Par-em-C
    ```
 
 3. Compile e execute o arquivo principal:
