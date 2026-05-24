@@ -1,1 +1,1 @@
-<h1>Que vc disputa com o computador se quer Impar ou Par , onde você escolhe primeiro e depois o computador fica com o que sobrar. O coputador gera um numero aleatório entre 1 e 10, esse número é somado ao seu onde o  computador va dizer se vc ganhou ou perdeu.</h1>
+<h1>É um jogo que você disputa com o computador se quer Impar ou Par , onde você escolhe primeiro e depois o computador fica com o que sobrar. O coputador gera um numero aleatório entre 1 e 10, esse número é somado ao seu onde o  computador va dizer se vc ganhou ou perdeu.</h1>
