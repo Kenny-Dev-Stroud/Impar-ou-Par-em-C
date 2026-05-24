@@ -1,1 +1,50 @@
-<h1>É um jogo que você disputa com o computador se quer Impar ou Par , onde você escolhe primeiro e depois o computador fica com o que sobrar. O coputador gera um numero aleatório entre 1 e 10, esse número é somado ao seu onde o  computador va dizer se vc ganhou ou perdeu.</h1>
+# 🎮 Jogo de Par ou Ímpar contra o Computador
+
+Uma aplicação simples e interativa onde o usuário disputa uma partida clássica de Par ou Ímpar contra a inteligência da máquina.
+
+## 📝 Como Funciona o Jogo
+
+1. **Escolha Inicial:** O jogador escolhe se quer ser **Par** ou **Ímpar**.
+2. **Atribuição:** O computador fica automaticamente com a opção que sobrou.
+3. **Jogada:** O usuário insere um número de sua escolha.
+4. **Ação da Máquina:** O computador gera um número aleatório entre **1 e 10**.
+5. **Resultado:** O sistema soma os dois números e declara o vencedor.
+
+---
+
+## 💡 Exemplo Prático
+
+Imagine o seguinte cenário de partida:
+
+* **Sua Escolha:** Ímpar
+* **Sua Jogada (Número):** 5
+* **Jogada do Computador (Aleatória):** 3
+* **Cálculo:** 5 + 3 = **8**
+
+> **Resultado:** Como o número 8 é **Par**, o computador vence esta rodada!
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* [Coloque aqui a linguagem, ex: HTML / CSS / JavaScript]
+* [Coloque aqui outra tecnologia se houver, ex: Python, Java, C#]
+
+---
+
+## 🚀 Como Executar o Projeto
+
+Se quiser testar o jogo localmente, siga os passos abaixo:
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com
+   ```
+2. Acesse a pasta do projeto:
+   ```bash
+   cd NOME-DO-REPOSITORIO
+   ```
+3. Execute o arquivo principal:
+   ```bash
+   [Coloque aqui o comando para rodar, ex: node index.js ou python main.py]
+   ```
